@@ -4,6 +4,5 @@ This repo contains all notebooks and files related to model development, includi
 
 ## Setup
 
-1. Create a virtual environment for the project using either `pip` or `conda`.
-2. Inside the virtual environment, install the required packages with `pip install -r requirements.txt`.
-3. Run jupyter notebook with `jupyter notebook`.
+1. Create a virtual environment `conda env create -f environment.yml`.
+2. Run jupyter notebook with `jupyter notebook`.
