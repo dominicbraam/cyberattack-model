@@ -1,0 +1,11 @@
+name: ml-proj-dsti
+dependencies:
+  - python==3.10.4
+  - notebook==7.3.2
+  - pandas==2.1.4
+  - seaborn==0.13.2
+  - pip==25.0
+  - pip:
+      - ipaddress==1.0.23
+      - python-dotenv==1.0.1
+      - user-agents==2.2.0
