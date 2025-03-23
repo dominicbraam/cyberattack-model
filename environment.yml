@@ -1,6 +1,7 @@
 name: ml-proj-dsti
 dependencies:
   - python==3.10.4
+  - dill==0.3.8
   - notebook==7.3.2
   - pandas==2.1.4
   - scipy==1.15.1
