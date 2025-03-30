@@ -5,8 +5,9 @@ dependencies:
   - notebook==7.3.2
   - pandas==2.1.4
   - scipy==1.15.1
-  - scikit-learn==1.6.1
+  - scikit-learn==1.5.2
   - seaborn==0.13.2
+  - xgboost==2.1.1
   - pip==25.0
   - pip:
       - ipaddress==1.0.23
